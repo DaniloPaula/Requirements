@@ -1,1 +1,1 @@
-# Requirements
+This repository aims to store the python language packages that I usually use to facilitate reinstallation after each Python / Anaconda update and command lines in Git Bash to remind me how to create repositories, etc.
