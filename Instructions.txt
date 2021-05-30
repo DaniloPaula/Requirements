@@ -1,0 +1,7 @@
+pip install -r D:\EPS\Requirements\reqs.txt --use-deprecated=legacy-resolver
+
+--use-deprecated = legacy-resolver makes it possible to use the old conflict checking mechanism between packages,
+which can save a lot of time
+
+For each new package installed, I add it to the end of the reqs.txt file.
+For example "pandas>=1.0.0" without quotes. With that he will always get the most current version of each package
