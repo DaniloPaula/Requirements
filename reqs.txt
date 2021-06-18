@@ -254,3 +254,4 @@ zipp>=3.1.0
 zope.event>=4.4
 zope.interface>=4.7.1
 backtesting>=0.3.1
+plotly>=4.14.3
