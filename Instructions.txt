@@ -1,4 +1,4 @@
-pip install -r D:\EPS\Requirements\reqs.txt --use-deprecated=legacy-resolver
+pip install -r D:\Projetos\Requirements\reqs.txt --use-deprecated=legacy-resolver
 
 --use-deprecated = legacy-resolver makes it possible to use the old conflict checking mechanism between packages,
 which can save a lot of time
